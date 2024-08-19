@@ -5,10 +5,7 @@
 
 - 🥸 I prefer to be called by my nickname **D'Magno** or **Magno**;
 - 👨‍👩‍👧‍👦 My family is very important to me;
-- 🔭 I’m currently working on [first Swift course](https://github.com/dmagnovasconcelos/first_swift_course)📱;
-- 🌱 I’m currently learning **Swift 5**;
-- 🤝 I’m looking for a **Swift** mentor or job;
-- 💬 Ask me about **Delphi**, **CSharp (C#)** and **Swift**;
+- 💬 Ask me about **Delphi** and **CSharp (C#)**;
 - 📫 How to reach me: dmagno.vasconcelos@gmail.com;
 
 <br> 
