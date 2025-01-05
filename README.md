@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Danilo Vasconcelos</h1>
+<h1 align="center">Hi 👋, I'm Magno Vasconcelos</h1>
 <h3 align="center">A mobile and back-end developer from Brazil 🇧🇷.</h3>
 
 <br> <br>
 
-- 🥸 I prefer to be called by my nickname **D'Magno** or **Magno**;  
+- 🥸 My full name is **Danilo Magno de Oliveira Vasconcelos**, but I prefer to go by my nickname **D'Magno** or simply **Magno**;  
 - 👨‍👩‍👧‍👦 My family is very important to me;  
 - 💬 Ask me about **Delphi**, **CSharp (C#)**, or **Observability & Metrics**;  
 - 📊 Passionate about **observability** tools like **Application Insights**, **Prometheus**, and **Grafana**, and leveraging metrics to improve system performance and reliability;  
