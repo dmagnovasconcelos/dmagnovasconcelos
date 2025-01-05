@@ -9,7 +9,7 @@
 - 📊 Passionate about **observability** tools like **Application Insights**, **Prometheus**, and **Grafana**, and leveraging metrics to improve system performance and reliability;  
 - 📫 How to reach me: dmagno.vasconcelos@gmail.com;  
 - 🚀 Currently studying **Node.js** and **Python**;  
-- 🖥️ Beginner-level knowledge in **SwiftUI**, **JavaScript**, and **Kotlin**.  
+- 🖥️ Beginner-level knowledge in **SwiftUI**, **JavaScript** and **Kotlin**.  
 
 <br>  
 
